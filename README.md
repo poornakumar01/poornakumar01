@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**poornakumar01/poornakumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 I'm a Data Science graduate with a strong foundation in data analysis, machine learning, and visualization.
 
