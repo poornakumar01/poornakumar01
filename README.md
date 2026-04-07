@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-👋 I'm a Data Science graduate with a strong foundation in data analysis, machine learning, and visualization.
+👋 I'm a Data Science graduate with a strong foundation in data analysis and data visualization.
 
 🔹 Skills: Python, SQL, Pandas, NumPy, Matplotlib, Power BI, Tableau  
 🔹 Interests: Data Analytics, Machine Learning, AI applications  
