@@ -8,8 +8,10 @@
 🔹 Interests: Machine Learning, AI applications  
 🔹 Goal: To apply data-driven insights to solve real-world problems  
 
+
 ## Project Overview
 This project demonstrates practical implementation of data science concepts including data cleaning, exploratory data analysis (EDA), and machine learning modeling.
+
 
 ## Tools & Technologies
 -  Git, GitHub, VS Code, Windows
