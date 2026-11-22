@@ -1,20 +1,19 @@
 ## Hi there 👋
 
 
-👋 I'm a Data Science graduate with a strong foundation in data analysis and data visualization.
+👋 I'm a Data Science graduate with a strong foundation in Python full stack with Ai.
 
-🔹 Skills: Python, SQL, Pandas, NumPy, Matplotlib, Power BI, Tableau  
-🔹 Interests: Data Analytics, Machine Learning, AI applications  
+🔹 Skills: Python, MySQL, Pandas, NumPy, Matplotlib.
+🔹 Web Technologies: HTML, CSS, JavaScript, React, Django
+🔹 Interests: Machine Learning, AI applications  
 🔹 Goal: To apply data-driven insights to solve real-world problems  
 
 ## Project Overview
 This project demonstrates practical implementation of data science concepts including data cleaning, exploratory data analysis (EDA), and machine learning modeling.
 
 ## Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+-  Git, GitHub, VS Code, Windows
+  
 
 ## Key Highlights
 - Data preprocessing and handling missing values
